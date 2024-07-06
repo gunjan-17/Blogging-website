@@ -1,4 +1,4 @@
-# Blog App
+# BlogSphere
 
 This is a simple blog web application built using Node.js, Express.js, and EJS. The application allows users to create, view, edit, and delete blog posts. Note that posts do not persist between sessions as no database is used in this version.
 
